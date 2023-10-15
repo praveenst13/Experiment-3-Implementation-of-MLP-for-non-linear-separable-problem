@@ -117,6 +117,8 @@ predict(w1,w2,test)
 
 
  **OUTPUT** 
+ ![image](https://github.com/praveenst13/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118787793/c0e5647e-a415-49f8-acb2-d64eb6bb8e77)
 
-** RESULT**
+
+## RESULT 
 Thus the implementation of MLP for non-linear separable problem is executed successfully.
